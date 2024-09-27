@@ -1,5 +1,5 @@
 ﻿﻿Console.Clear();
-Console.WriteLine("traduto em Leets");
+Console.WriteLine("digite qualquer coisa a ser traduzida:");
 string Frase = Console.ReadLine()!;
 string FraseEmLeets = Frase 
  .Replace("A", "4" )
